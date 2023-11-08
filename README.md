@@ -24,10 +24,13 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 ## Condizione
 
 SE
--- il valore è un multiplo di 3, il programma stampa "Fizz"
+-- il valore è multiplo di 3 e 5, il programma stampa "FizzBuzz".
 
 ALTRIMENTI SE
--- il valore è multiplo di 5, il programma stampa "Buzz"
+-- il valore è multiplo di 5, il programma stampa "Buzz".
 
 ALTRIMENTI SE 
--- il valore è multiplo di 3 e 5, il programma stampa "FizzBuzz".
+-- il valore è un multiplo di 3, il programma stampa "Fizz".
+
+ALTRIMENTI SE 
+-- restituisce il numero.
