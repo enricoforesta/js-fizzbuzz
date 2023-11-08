@@ -13,8 +13,6 @@ for (let i = elementInizio; i <= elementFine; i++) {
 
     const elementLi = document.createElement("li");
 
-    elementUl.append(elementLi);
-
     // Multipli di 3 e 5
 
     if (i % 5 === 0 && i % 3 === 0)  {
@@ -53,4 +51,6 @@ for (let i = elementInizio; i <= elementFine; i++) {
 
         elementLi.classList.add("numero");
     }
+
+    elementUl.append(elementLi);
 }

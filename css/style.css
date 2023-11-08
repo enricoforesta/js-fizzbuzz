@@ -33,7 +33,16 @@ main{
     width: 100px;
     height: 100px;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 35px;
+    border-radius: 50%;
+    transition: border-radius 3s , background-color  3s;
+}
+
+.lista li:hover{
+    cursor: pointer;
+    border-radius:0;
+    background-color: yellow;
+    
 }
 
 /* Box */
