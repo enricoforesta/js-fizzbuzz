@@ -29,6 +29,13 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 
 3. In ogni condizione "appendo" la stringa o il numero da mostrare.
 
+
+### Bonus 2
+
+1. Creo delle classi diverse per ogni condizione, collegate al elemento creato in precedenza.
+
+2. Con il file css, personalizziamo il layout del nostro programma.
+
 ## Condizione
 
 SE
