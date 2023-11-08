@@ -6,6 +6,17 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+    font-size: 50px;
+    color: white;
+}
+
 /* Lista */
 main{
     padding: 30px;
@@ -15,11 +26,10 @@ main{
     list-style: none;
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 20px;
 }
 
 .lista li{
-    border: 1px solid black;
     width: 100px;
     height: 100px;
     text-align: center;
@@ -29,21 +39,21 @@ main{
 /* Box */
 
 .fizz-buzz{
-    background-color: yellow;
+    background-color: pink;
     color: violet;
 }
 
 .buzz{
-    background-color: red;
+    background-color: aquamarine;
     color: blue;
 }
 
 .fizz{
-    background-color: black;
+    background-color: darkviolet;
     color: white;
 }
 
 .numero{
     background-color: indigo;
-    color: orangered;
+    color: white;
 }
