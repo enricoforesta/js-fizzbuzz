@@ -1,0 +1,49 @@
+/* Reset */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Lista */
+main{
+    padding: 30px;
+}
+
+.lista{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.lista li{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+/* Box */
+
+.fizz-buzz{
+    background-color: yellow;
+    color: violet;
+}
+
+.buzz{
+    background-color: red;
+    color: blue;
+}
+
+.fizz{
+    background-color: black;
+    color: white;
+}
+
+.numero{
+    background-color: indigo;
+    color: orangered;
+}

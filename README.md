@@ -21,6 +21,14 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 
 2. Con il modulo (&) seleziono i multipli di 3, di 5, e i mulitpli comuni di 3e5.
 
+### Bonus 1
+
+1. Creo una variabile collegata all html.
+
+2. Creo un elemento e lo "appendo" alla variabile collegata con l html.
+
+3. In ogni condizione "appendo" la stringa o il numero da mostrare.
+
 ## Condizione
 
 SE
