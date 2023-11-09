@@ -1,8 +1,8 @@
 "use strict"
 
 // Variabili Ciclo
-const elementInizio=1;
-const elementFine=100;
+const elementInizio = 1;
+const elementFine = 100;
 
 
 const elementUl=document.querySelector(".lista");

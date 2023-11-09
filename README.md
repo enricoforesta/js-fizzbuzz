@@ -21,6 +21,20 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 
 2. Con il modulo (&) seleziono i multipli di 3, di 5, e i mulitpli comuni di 3e5.
 
+## Condizione
+
+SE
+-- il valore è multiplo di 3 e 5, il programma stampa "FizzBuzz".
+
+ALTRIMENTI SE
+-- il valore è multiplo di 5, il programma stampa "Buzz".
+
+ALTRIMENTI SE 
+-- il valore è un multiplo di 3, il programma stampa "Fizz".
+
+ALTRIMENTI SE 
+-- restituisce il numero.
+
 ### Bonus 1
 
 1. Creo una variabile collegata all html.
@@ -35,17 +49,3 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 1. Creo delle classi diverse per ogni condizione, collegate al elemento creato in precedenza.
 
 2. Con il file css, personalizziamo il layout del nostro programma.
-
-## Condizione
-
-SE
--- il valore è multiplo di 3 e 5, il programma stampa "FizzBuzz".
-
-ALTRIMENTI SE
--- il valore è multiplo di 5, il programma stampa "Buzz".
-
-ALTRIMENTI SE 
--- il valore è un multiplo di 3, il programma stampa "Fizz".
-
-ALTRIMENTI SE 
--- restituisce il numero.
